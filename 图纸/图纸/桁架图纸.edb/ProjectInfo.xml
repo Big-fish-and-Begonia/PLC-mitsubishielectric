@@ -24,10 +24,10 @@
  <Property name="创建者" id="10020" index="0" type="7">ADMIN</Property>
  <Property name="创建日期" id="10021" index="0" type="14">1629952593</Property>
  <Property name="最后修订者:登录名" id="10022" index="0" type="7">ADMIN</Property>
- <Property name="更改日期" id="10023" index="0" type="14">1719146615</Property>
+ <Property name="更改日期" id="10023" index="0" type="14">1720745665</Property>
  <Property name="最后的外语翻译: 日期" id="10024" index="0" type="14">1381906320</Property>
  <Property name="项目负责人" id="10025" index="0" type="7">邢阔</Property>
- <Property name="今天的日期" id="10027" index="0" type="14">1719148158</Property>
+ <Property name="今天的日期" id="10027" index="0" type="14">1720745719</Property>
  <Property name="项目启动" id="10028" index="0" type="14">1687154234</Property>
  <Property name="上一级的结构格式" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="安装地点" id="10032" index="0" type="15">??_??@大连市开发区鸿锋智能工厂;</Property>
@@ -41,7 +41,7 @@
  <Property name="最近使用的 EPLAN 内部版本号" id="10044" index="0" type="7">14642</Property>
  <Property name="完整项目路径" id="10045" index="0" type="7">C:\Users\Admin\Desktop\GIT储存库\PLC-mitsubishielectric\图纸\图纸</Property>
  <Property name="创建时间" id="10046" index="0" type="7">12:36:33</Property>
- <Property name="修改时间" id="10047" index="0" type="7">20:43:35</Property>
+ <Property name="修改时间" id="10047" index="0" type="7">8:54:25</Property>
  <Property name="最后的外语翻译:时间" id="10048" index="0" type="7">14:52:00</Property>
  <Property name="结构格式:页" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="结构格式:中断点" id="10051" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -50,7 +50,7 @@
  <Property name="结构格式:常规设备" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:黑盒" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:PLC/总线技术" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="白天" id="10058" index="0" type="14">1719148158</Property>
+ <Property name="白天" id="10058" index="0" type="14">1720745719</Property>
  <Property name="结构格式:端子排" id="10059" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:插头" id="10060" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="结构格式:电缆" id="10061" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
